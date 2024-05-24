@@ -3,15 +3,15 @@ React Calculator App
 This is a simple calculator app built with React that performs basic arithmetic operations. It demonstrates the use of React hooks, components, and basic styling.
 
 Table of Contents
-Features 
+Features
 Installation
-Usage 
+Usage
 Folder Structure
 Contributing
 License
 
-
 Features
+
 The calculator app includes the following features:
 
 Addition, subtraction, multiplication, and division operations.
@@ -56,6 +56,7 @@ react-calculator-app/
 ├── package-lock.json
 ├── package.json
 └── README.md
+
 
 public/: Contains the HTML file and static assets.
 src/: Contains the React components and styling files.
