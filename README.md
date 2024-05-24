@@ -46,21 +46,37 @@ This will open the app in your default web browser at http://localhost:3000.
 Folder Structure
 Here is the structure of the project folder:
 react-calculator-app/
+
 ├── node_modules/
+
 ├── public/
+
 │   ├── index.html
+
 │   └── ...
+
 ├── src/
+
 │   ├── components/
+
 │   │   ├── Calculator.js
+
 │   │   └── ...
+
 │   ├── App.css
+
 │   ├── App.js
+
 │   ├── index.js
+
 │   └── ...
+
 ├── .gitignore
+
 ├── package-lock.json
+
 ├── package.json
+
 └── README.md
 
 
