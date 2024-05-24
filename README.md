@@ -3,11 +3,17 @@ React Calculator App
 This is a simple calculator app built with React that performs basic arithmetic operations. It demonstrates the use of React hooks, components, and basic styling.
 
 Table of Contents
+
 Features
+
 Installation
+
 Usage
+
 Folder Structure
+
 Contributing
+
 License
 
 Features
